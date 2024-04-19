@@ -1,3 +1,5 @@
+> A generated states from [`R055A/GitStats`](https://github.com/R055A/GitStats) with improved visualizations!
+
 # 📈 [GitHub Stats Visualization](https://github.com/R055A/GitStats) 🔭
 
 Generate daily updated visualizations of user and repository statistics from the GitHub [GraphQL](https://docs.github.com/en/graphql) and [REST](https://docs.github.com/en/rest) APIs using GitHub [Actions](https://docs.github.com/en/actions) and [Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets). Customizable visualizations support dark and light mode and can adapt to device sizes.
